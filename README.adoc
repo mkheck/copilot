@@ -1,0 +1,21 @@
+= Copilot Is My Copilot: Pair Programming with an AI
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This repo accompanies my session titled *"Copilot Is My Copilot: Pair Programming with an AI"* and includes all code written within the session and potentially more.
+
+*_Star+watch this repo for updates!_*
+
+== Notes
+
+* Some portions are INOP (inoperative) as they exist currently, e.g. the Terraform script. I left it this way to illustrate the current potential and limitations of Copilot Chat.
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/copilot-is-my-copilot-pair-programming-with-an-ai["Copilot Is My Copilot: Pair Programming with an AI" presentation]
